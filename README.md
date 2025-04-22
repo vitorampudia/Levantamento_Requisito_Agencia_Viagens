@@ -1,7 +1,12 @@
-# Cenário: 
+# Nome - Vitor Farias Ampudia
+# RA - 2042471
+
+## Cenário
 **Uma agência de viagens especializada em turismo personalizado decidiu criar um aplicativo de gerenciamento de viagens para oferecer uma experiência mais completa e personalizada aos seus clientes. O objetivo é permitir que os usuários planejem suas viagens de forma mais eficiente, cadastrando detalhes como tipo de transporte, duração da viagem e pontos de parada, e também receber sugestões de lugares interessantes ao longo do percurso.**
 
-## Requisitos Funcionais
+
+### Requisitos Funcionais
+
 
 1. O sistema deverá prover um sistema de login para qu o usuário acesse suas contas, e suas viagens já realizadas e as ainda marcadas
 
@@ -19,7 +24,11 @@
 
 8. Sistema de avaliação de locais para turismo, com pontuação, integrado com o sistema de feedback anteriormente citado
 
-## Requisitos Não Funcionais
+9. Os locais devem possuir tags que lhe dão uma breve descrição, para que atinja o usuário ideal
+
+
+### Requisitos Não Funcionais
+
 
 1. Ser capaz de suportar no mínimo 100 solicitaçãos de turismo, sem ter qualquer perda de desemenho
 
@@ -27,4 +36,11 @@
 
 3. Privaciade completa do usuário, com meios de criptografia, para preservar a segurança sobre pessoas más intencionadas
 
-4. 
+4. O programa deve ter tela responsiva a diferentes resoluções em que os usuários podem utilizar sua aplicação
+
+### Requisitos de Domínio
+
+
+1. O sistema deve seguir as normas da ANTT (Agência Nacional de Transportes Terrestres)
+
+2. O guia deverá ser alguém nativo da região, e que possui um conhecimento elevado sobre os demais sobre a respectiva área
