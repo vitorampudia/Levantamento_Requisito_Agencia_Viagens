@@ -36,7 +36,7 @@
 
 3. Privaciade completa do usuário, com meios de criptografia, para preservar a segurança sobre pessoas más intencionadas
 
-4. O programa deve ter tela responsiva a diferentes resoluções em que os usuários podem utilizar sua aplicação
+4. O programa deve ter uma interface responsiva a diferentes resoluções em que os usuários podem utilizar sua aplicação
 
 ### Requisitos de Domínio
 
